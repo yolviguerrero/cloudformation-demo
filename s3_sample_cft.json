@@ -4,7 +4,7 @@
         "myS3Bucket": {
             "Type": "AWS::S3::Bucket",
             "Properties": {
-                "BucketName" : "mys3bucket_10_12_2020"                
+                "BucketName" : "mys3bucket10122020yg"                
             }
         }
     },
