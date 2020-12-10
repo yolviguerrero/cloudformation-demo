@@ -3,6 +3,9 @@
     "Resources": {
         "myS3Bucket": {
             "Type": "AWS::S3::Bucket"
+            "Properties": {
+                "BucketName" : "MyS3Bucket_10_12_2020"                
+            }
         }
     },
     "Outputs": {
